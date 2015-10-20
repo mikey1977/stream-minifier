@@ -1,0 +1,19 @@
+{
+  "name": "stream-minifier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "minify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikey1977/stream-minifier.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikey1977/stream-minifier/issues"
+  },
+  "homepage": "https://github.com/mikey1977/stream-minifier#readme"
+}
